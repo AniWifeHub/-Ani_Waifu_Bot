@@ -1,0 +1,1 @@
+Here is @Ani_Waifu_Bot Project i maked in 2025 i know my project is not good or have bad performance but i developed it and i in the lasts 2025 want make another bots and develop my developing to be good developer and learn with books and a bit maybe use ai a bit for little questions or ideas and there no sentences, have a great year and goodbye.

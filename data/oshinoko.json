@@ -1,0 +1,39 @@
+{
+    "gifs": {
+        "AI Hoshino": {
+            "wingif": [
+                "BAACAgIAAyEFAASZnLN9AAIEOGhAfLnZZ-E7PI1TlRbanuOzH8x3AALYdAACMLEJSkfuijnOLbjgNgQ",
+                "BAACAgIAAyEFAASZnLN9AAIEUWhAf7x6HF0rc9ut9mAPjqglaL3gAAJGcgAC6U8ISkmMjndGgR_2NgQ",
+                "BAACAgIAAyEFAASZnLN9AAIETmhAf02T9s-EMrO1JKKer-QJb111AAI7cgAC6U8ISrW1WmLso8vwNgQ"
+            ],
+            "losegif": [
+                "BAACAgIAAyEFAASZnLN9AAIEV2hAgNFpiGhGDNpCHVfPbv2L05FQAAJacgAC6U8ISnYNuxuFyCasNgQ",
+                "BAACAgIAAyEFAASZnLN9AAIEVmhAgNHt43myQPOsOJQhPopKbPC9AALYcwACEmqJSa_XJcibUwLlNgQ"
+            ]
+        },
+        "Ruby Hoshino": {
+            "wingif": [
+                "BAACAgIAAyEFAASZnLN9AAIEa2hAhKlgVJBtpc4fZ_XtXWbK_qUNAAKmcgAC6U8ISgM8WUDiHqSnNgQ",
+                "BAACAgIAAyEFAASZnLN9AAIEaWhAhKkC_gVdk4jh83PsV0WDmsoQAAKAcgAC6U8ISikK8xOaj5FaNgQ",
+                "BAACAgIAAyEFAASZnLN9AAIEamhAhKmVSXXRybSRAsLDIvqxHZetAAKjcgAC6U8ISqjRhi4SCJNXNgQ"
+            ],
+            "losegif": [
+                "BAACAgIAAyEFAASZnLN9AAIEX2hAgppEu1hWod9kCKU6n6JyewmgAALmcwACEmqJSU_M5aZY47yFNgQ",
+                "BAACAgIAAyEFAASZnLN9AAIEYGhAgpo2YZXTz-aNDH82unyRzyvAAAJ9cgAC6U8ISkaZNs15fJWLNgQ"
+            ]
+        },
+        "MEM-cho": {
+            "wingif": [
+                "BAACAgIAAyEFAASZnLN9AAIEdGhAhgsL0otfpDsy-SLgrJeSu5AgAALQcgAC6U8IShtshB0lPZN_NgQ",
+                "BAACAgIAAyEFAASZnLN9AAIEcmhAhguZrax1poInKrkIvSLydUgdAALLcgAC6U8ISmyETOMtq9-HNgQ",
+                "BAACAgIAAyEFAASZnLN9AAIEc2hAhgvB0ZDIad_rIUVfG5i-AdHRAALNcgAC6U8ISiroiu4eekLZNgQ"
+            ],
+            "losegif": [
+                "BAACAgIAAyEFAASZnLN9AAIEgGhAh1mHUG4X8_K_fy22XKiGddqGAALicgAC6U8ISstdCtNN-aQJNgQ",
+                "BAACAgIAAyEFAASZnLN9AAIEfmhAh1nhYV6scjH4SrTlm7kwqN9fAALYcgAC6U8ISoZExAxaDTHMNgQ",
+                "BAACAgIAAyEFAASZnLN9AAIEf2hAh1l5Pk1hKxH6XyHfI65dDU-bAALecgAC6U8IStS7Wa6XLid1NgQ"
+            ]
+        }
+    },
+    "users": {}
+}
